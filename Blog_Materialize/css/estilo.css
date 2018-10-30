@@ -1,0 +1,91 @@
+/*barra superior*/
+
+
+.botones_encabe{
+  margin-top: 20px;
+  margin-left:  10px;
+
+}
+div{
+/*border: white 1px solid;*/
+}
+.slogam{
+  width: 200px;
+  height: 200px;
+  margin-top: 30px;
+  border-radius: 20px;
+
+
+}
+
+.container{
+  background-image: url("../img/imagen1.jpg");
+  background:-image: rbga (0,0,0,0.9);*/
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  opacity: 0.9;
+  border-radius: 20px;
+
+}
+.contenido{
+;
+  }
+.titulo{
+  color: white;
+
+
+}
+.icons{
+  border-radius: 30px;
+  height: 250px;
+
+}
+
+.one_imag{
+  border-radius: 10px;
+  width: 270px;
+  height: 250px;
+}
+
+.two_imag{
+  border-radius: 10px;
+
+}
+
+ .three{
+  /*  width: 5000px;
+    height: 150px;*/
+ }
+.three_imag{
+  margin-top: 15px;
+  border-radius: 10px;
+  width: 370px;
+  height:350px;
+
+}
+.bloque_articulo{
+  margin-top: 10px;
+  margin-bottom: 10PX;
+  margin:20px;
+  text-align: justify;
+  border-radius: 10px;
+
+
+}
+.bloque_biografias{
+  margin-top: 10px;
+  margin-bottom: 10PX;
+  border-radius: 10px;
+}
+.Acuario{
+  border-radius: 10px;
+  float:left;
+  border-top: 10px;
+  margin:10px;
+
+
+}
+
+}

@@ -1,0 +1,78 @@
+
+body{
+  background-image: url("../img/sala.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  margin-top: 10px
+
+}
+.principal{
+background: rgba(255, 0, 0, 0.25);
+
+
+}
+
+.slogan{
+  width: 150px;
+  height: 100px;
+  margin-left: 160px;
+}
+.slogan_letras{
+  width: 200px;
+  height:50px;
+  margin-left: 110px
+}
+
+
+.row{
+  margin-top: 20px;
+  border: white  0.05px solid;
+  opacity: 0.
+  align-content: center;
+}
+.comida_cos{
+  width: 65px;
+  height:65px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.img_Conte{
+  width:600px;
+  height: 400px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+
+
+}
+.menu{
+  margin-top: 30px;
+
+
+}
+
+.sub-menu{
+  width: 150px;
+  align-content: center;
+}
+.Boton_Comen{
+  margin-left: 500px;
+}
+.user-img{
+  width: 50px;
+  height: 50px;
+	margin-top: 1px;
+	border-style:solid;
+	border-width: 1px;
+	border-radius: 5px;
+	border-color: gray;
+}
+.comentarios{
+  
+}

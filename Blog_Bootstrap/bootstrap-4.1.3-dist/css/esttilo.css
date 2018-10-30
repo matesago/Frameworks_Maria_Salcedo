@@ -1,0 +1,37 @@
+.encabezado{
+
+  min-height: 10%;
+  border: none;
+}
+.img-redes{
+    height: 30px;
+
+    margin-right: 10x;
+    margin-top: 20px;
+
+}
+.botones-ancho{
+  width: 179px;
+}
+.redessociales{
+  margin-left: 600px;
+
+
+}
+.imagen_banda{
+  margin-top: 20px;
+  width: 350px;
+
+}
+.icon_user{
+  width:65px;
+  height:65px;
+
+}
+.parrafo{
+text-align: justify;
+}
+.buscador{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
